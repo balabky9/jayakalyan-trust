@@ -2,7 +2,7 @@
 template: blog-post
 title: Our Story
 slug: /ourstory
-date: 2020-05-13 12:46
+date: 2020-09-06 01:01
 description: featured-home
 featuredImage: /assets/ourstory.jpg
 ---
