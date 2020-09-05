@@ -13,11 +13,11 @@ cta2:
 ---
 ### **VISION**
 
-> #### To enable all deserving students access high quality education irresepective of financial constraints. 
+#### To enable all deserving students access high quality education irresepective of financial constraints.
 
 ### MISSION
 
-#### We aim to help students with financial issues to acheive their potentials and dreams by helping them finance their education via fully funded scholarships. 
+#### We aim to help students with financial issues to acheive their potentials and dreams by helping them finance their education via fully funded scholarships.
 
 > *Give a man to fish, you feed him for a day; Teach a man to fish and you feed him for a lifetime.* 
 
