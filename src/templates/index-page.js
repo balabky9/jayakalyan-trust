@@ -29,6 +29,10 @@ export const pageQuery = graphql`
           ctaText
           ctaLink
         }
+	cta2 {
+          cta2Text
+          cta2Link
+        }
       }
     }
   }
@@ -47,6 +51,7 @@ const HomePage = ({ data }) => {
           <p class="tagline">{frontmatter.tagline}</p>
           <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
+	  <Link to={frontmatter.cta2.cta2Link} className="button">{frontmatter.cta2.cta2Text}<span class="icon -right"><RiArrowRightSLine/></span></Link>	
         </div>
         <div>
           {Image ? (
