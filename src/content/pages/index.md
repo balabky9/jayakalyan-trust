@@ -8,4 +8,4 @@ cta:
   ctaText: About us
   ctaLink: /about
 ---
-Welcome to the official website of Jayakalyan Trust. 
+**Welcome to the official website of Jayakalyan Trust.**
