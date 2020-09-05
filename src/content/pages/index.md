@@ -7,6 +7,9 @@ featuredImage: /assets/img.jpg
 cta:
   ctaText: About us
   ctaLink: /about
+cta2:
+  cta2Text: Our Story
+  cta2Link: /ourstory
 ---
 ### **VISION**
 
