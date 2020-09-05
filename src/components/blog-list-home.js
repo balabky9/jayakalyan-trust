@@ -21,7 +21,7 @@ export default function BlogListHome() {
         query {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
-            filter: { frontmatter: { template: { eq: "blog-post" }, description:{eq:"featured-home"} }
+            filter: { frontmatter: { template: { eq: "blog-post" }, description:{eq:"featured-home"} } }
             limit: 6
           ) {
             edges {
