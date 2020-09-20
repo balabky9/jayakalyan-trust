@@ -47,8 +47,8 @@ const HomePage = ({ data }) => {
 		<Layout>
       <SEO/>
       <div className="home-banner grids col-1">		
-      <div className="grids col-1 sm-2" style="justify-content:center; align-items:center;">
-      <div style="text-align:center;">
+      <div className="grids col-1 sm-2 myalign">
+      <div style={{textAlign: 'center'}}>
           {Image ? (
             <Img 
               fluid={Image}	
@@ -57,7 +57,7 @@ const HomePage = ({ data }) => {
             />
           ) : ""}
         </div>
-      <div style="text-align:center;">
+      <div style={{textAlign: 'center'}}>
 	 <h1 class="title">{frontmatter.title}</h1>
           <p class="tagline">{frontmatter.tagline}</p>
      </div>
