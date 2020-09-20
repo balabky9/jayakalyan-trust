@@ -17,7 +17,7 @@ Thanks to the endowments of the trust, several students have been able to comple
 
 **1. Mr. B.R Kalyanaraman** 
 
-**2. Mrs. Akila Kalyanaraman**
+**2.  CA Anand Ramaswamy**
 
 **Administrative Members**
 
