@@ -17,8 +17,9 @@ export const pageQuery = graphql`
         tagline
         featuredImage {
           childImageSharp {
-            fixed(width: 280, height: 250) {
-              ...GatsbyImageSharpFixed
+            fluid(maxWidth: 560, maxheight: 500, quality:100) {
+              ...GatsbyImageSharpFluid
+              ...GatsbyImageSharpFluidLimitPresentationSize 		
             }
             sizes {
               src
@@ -41,7 +42,7 @@ export const pageQuery = graphql`
 const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-  const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fixed : ""
+  const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
 	return (
 		<Layout>
       <SEO/>
@@ -56,8 +57,7 @@ const HomePage = ({ data }) => {
         <div>
           {Image ? (
             <Img 
-              fixed={Image}
-	      objectFit="cover"		
+              fluid={Image}	
               alt={frontmatter.title + ' - Featured image'}
               className="featured-image"
             />
