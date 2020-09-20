@@ -57,7 +57,7 @@ const HomePage = ({ data }) => {
             />
           ) : ""}
         </div>
-      <div class="style="text-align:center;">
+      <div style="text-align:center;">
 	 <h1 class="title">{frontmatter.title}</h1>
           <p class="tagline">{frontmatter.tagline}</p>
      </div>
