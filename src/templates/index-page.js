@@ -56,7 +56,8 @@ const HomePage = ({ data }) => {
         <div>
           {Image ? (
             <Img 
-              fluid={Image} 
+              fixed={Image}
+	      objectFit="cover"		
               alt={frontmatter.title + ' - Featured image'}
               className="featured-image"
             />
