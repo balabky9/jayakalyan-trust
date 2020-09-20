@@ -46,15 +46,9 @@ const HomePage = ({ data }) => {
 	return (
 		<Layout>
       <SEO/>
-      <div className="home-banner grids col-1 sm-2">
-        <div>
-          <h1 class="title">{frontmatter.title}</h1>
-          <p class="tagline">{frontmatter.tagline}</p>
-          <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
-          <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
-	  <Link to={frontmatter.cta2.cta2Link} className="button">{frontmatter.cta2.cta2Text}<span class="icon -right"><RiArrowRightSLine/></span></Link>	
-        </div>
-        <div>
+      <div className="home-banner grids col-1">		
+      <div className="grids col-1 sm-2" style="justify-content:center; align-items:center;">
+      <div style="text-align:center;">
           {Image ? (
             <Img 
               fluid={Image}	
@@ -63,6 +57,19 @@ const HomePage = ({ data }) => {
             />
           ) : ""}
         </div>
+      <div class="style="text-align:center;">
+	 <h1 class="title">{frontmatter.title}</h1>
+          <p class="tagline">{frontmatter.tagline}</p>
+     </div>
+  		
+      
+        <div>
+         
+          <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
+          <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
+	  <Link to={frontmatter.cta2.cta2Link} className="button">{frontmatter.cta2.cta2Text}<span class="icon -right"><RiArrowRightSLine/></span></Link>	
+        </div>
+        
       </div>
       <BlogListHome/>
 		</Layout>
