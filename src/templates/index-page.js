@@ -41,7 +41,7 @@ export const pageQuery = graphql`
 const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-  const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
+  const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fixed : ""
 	return (
 		<Layout>
       <SEO/>
