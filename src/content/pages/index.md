@@ -13,12 +13,12 @@ cta2:
 ---
 ### **VISION**
 
-#### To enable all deserving students access high quality education irresepective of financial constraints.
+#### To enable all deserving students access high quality education irrespective of financial constraints.
 
 ### MISSION
 
-#### We aim to help students with financial issues to acheive their potentials and dreams by helping them finance their education via fully funded scholarships.
+#### We aim to help students with financial issues to achieve their potentials and dreams by helping them finance their education via fully funded scholarships.
 
 > *Give a man to fish, you feed him for a day; Teach a man to fish and you feed him for a lifetime.* 
 
-We strongly beleive in the fact that education is the only way to dispell poverty and to build the next generation of leaders. Currently the Trust engages in sponsoring mertitorious and deserving students who without financal assistance would not be able to complete their higher education. The trust provides full financial assistance with no expectations in return, and hopes that in the future such students set an example by sponsoring a few more students.
+We strongly believe in the fact that education is a great way to dispel poverty and to build the next generation of leaders. Currently the Trust engages in sponsoring meritorious and deserving students, who without financial assistance would not be able to complete their higher education. The trust provides full financial assistance with no expectations in return, and hopes that in the future such students set an example by sponsoring a few more students.
