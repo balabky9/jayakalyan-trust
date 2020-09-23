@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Jayakalyan Trust
-tagline: Official website of Jayakalyan Trust
+tagline: Aspire to Dream!
 featuredImage: /assets/jayakalyan-logo.png
 cta:
   ctaText: About us
