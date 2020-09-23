@@ -24,4 +24,4 @@ Gratefully yours,
 
 Ankit Dasgupta
 
-***Today Ankit has an engineering degree from the University of Mumbai and an MBA from MDI Gurgaon and ESCP Europe. He is also a Distinguished Toastmaster.***
+***Today Ankit has an engineering degree from the University of Mumbai, and an MBA from MDI Gurgaon and ESCP Europe. He is also a Distinguished Toastmaster.***
