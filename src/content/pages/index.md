@@ -22,5 +22,3 @@ cta2:
 > *Give a man to fish, you feed him for a day; Teach a man to fish and you feed him for a lifetime.* 
 
 We strongly believe in the fact that education is a great way to dispel poverty and to build the next generation of leaders. Currently the Trust engages in sponsoring meritorious and deserving students, who without financial assistance would not be able to complete their higher education. The trust provides full financial assistance with no expectations in return, and hopes that in the future such students set an example by sponsoring a few more students.
-
-![](/assets/linkedin1.png)
