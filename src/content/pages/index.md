@@ -13,7 +13,7 @@ cta2:
 ---
 ### **VISION**
 
-#### To enable all deserving students access high quality education irrespective of financial constraints.
+#### Enable students to access high quality education irrespective of financial constraints.
 
 ### MISSION
 
