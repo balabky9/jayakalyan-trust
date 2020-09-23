@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: "Testimonial: Ankit"
-slug: /testimonialankit
+title: "Testimonial: Ankit Dasgupta"
+slug: /testimonialankitdasgupta
 date: 2020-09-15 21:18
 description: featured-home
 featuredImage: /assets/ankit.jpg
@@ -24,4 +24,4 @@ Gratefully yours,
 
 Ankit Dasgupta
 
-***Today Ankit has an engineering degree from the University of Mumbai, and an MBA from MDI Gurgaon and ESCP Europe. He is also a Distinguished Toastmaster.***
+***Today Ankit has an engineering degree from the University of Mumbai, and an MBA from MDI Gurgaon and ESCP Europe. He is also a Distinguished Toastmaster. Currently he is working as an International Graduate at Standard Chartered Bank.***
