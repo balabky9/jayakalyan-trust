@@ -11,7 +11,6 @@ Jayakalyan trust was established as a charitable foundation and registered under
 
 The trust is currently run by Mr. Kalyan &Mrs. Akila, and their children Vandith B.K & Vaanchitha Kalyanaraman. They actively help in day to day activities to carry forward the vision and mission set up by their parents. 
 
-
 Thanks to the endowments of the trust, several students have been able to complete their higher education and secure financial security and continue to do exceedingly well in their lives.
 
 **Governing Members** 
@@ -22,8 +21,8 @@ Thanks to the endowments of the trust, several students have been able to comple
 
 **Administrative Members**
 
-**1. Mr. Vandith B. K**
+**1. Ms. Vaanchitha Kalyanaraman**
 
-**2. Ms. Vaanchitha Kalyanaraman**
+**2. Mr. Vandith B. K**
 
 **3. Mrs. Akila Kalyanaraman**
