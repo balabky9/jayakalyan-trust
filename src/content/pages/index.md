@@ -17,7 +17,7 @@ cta2:
 
 ### MISSION
 
-#### We aim to help students with financial issues to achieve their potentials and dreams by helping them finance their education via fully funded scholarships and mentorship.
+#### We aim to help students with financial issues to achieve their potentials and dreams by helping them finance their education via scholarships and mentorship.
 
 > *Give a man to fish, you feed him for a day; Teach a man to fish and you feed him for a lifetime.* 
 
